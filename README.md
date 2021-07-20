@@ -23,3 +23,9 @@ Nevertheless, I kept on going because I knew that I would be taking a Linux cour
 Since the start of Summer, I've been practicing Vim almost everyday by coding my own projects and schoolwork. In this repository, you can have a look at all of the configurations that I have compiled since then. It is still pretty basic (in comparison with veteran Vim users), but I'm proud of it and I don't need much more than this.
 
 Now I just can't live without Vim.
+
+---
+
+I've tried to work on E-Portfolio, web design, and the like, but I just can't seem to have fun with it. I will admit that it is inspiring to see other people's beautiful portfolios, but I can't seem to start my own. Moreover, I don't progrmaming in HTML, CSS, JS and the like; I know, controversial, but I just enjoy C++ and Python too much.
+
+I'm going to wait on my own portfolio, until I get more ideas, projects, and experience going. I have a hard time filling it out because I don't have much experience yet.
