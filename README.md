@@ -14,7 +14,7 @@ I've been try to work on more Python books, but I've been busy with school and m
 
 ---
 
-One thing that I'm very proud of is my (Vim-Config)[https://github.com/suasuasuasuasua/Vim-Config] repository. Over the Summer (of 2021), I decided to learn Vim out of boredom and partly because of its notoriety. I also remember seeing one of my group mates using Vim; he was fluid with his fingers, knew every command, made zero mistakes. At that point I knew I had to try it.
+One thing that I'm very proud of is my [Vim-Config](https://github.com/suasuasuasuasua/Vim-Config) repository. Over the Summer (of 2021), I decided to learn Vim out of boredom and partly because of its notoriety. I also remember seeing one of my group mates using Vim; he was fluid with his fingers, knew every command, made zero mistakes. At that point I knew I had to try it.
 
 I will be honest, I wanted to quit Vim on day one. It was horrible; the key bindings made no sense, the TUI was terrible for my eyes, I was grindingly slow, etc. 
 
