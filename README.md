@@ -14,18 +14,6 @@ I've been try to work on more Python books, but I've been busy with school and m
 
 ---
 
-One thing that I'm very proud of is my [Vim-Config](https://github.com/suasuasuasuasua/Vim-Config) repository. Over the Summer (of 2021), I decided to learn Vim out of boredom and partly because of its notoriety. I also remember seeing one of my group mates using Vim; he was fluid with his fingers, knew every command, made zero mistakes. At that point I knew I had to try it.
+I don't have an e-portfolio just yet, as I'm trying to find time/sanity for that. 
 
-I will be honest, I wanted to quit Vim on day one. It was horrible; the key bindings made no sense, the TUI was terrible for my eyes, I was grindingly slow, etc. 
-
-Nevertheless, I kept on going because I knew that I would be taking a Linux course the following semester. I would have to learn Vim or Emacs either way, so I got a huge headstart. 
-
-Since the start of Summer, I've been practicing Vim almost everyday by coding my own projects and schoolwork. In this repository, you can have a look at all of the configurations that I have compiled since then. It is still pretty basic (in comparison with veteran Vim users), but I'm proud of it and I don't need much more than this.
-
-Now I just can't live without Vim.
-
----
-
-I've tried to work on E-Portfolio, web design, and the like, but I just can't seem to have fun with it. I will admit that it is inspiring to see other people's beautiful portfolios, but I can't seem to start my own. Moreover, I don't progrmaming in HTML, CSS, JS and the like; I know, controversial, but I just enjoy C++ and Python too much.
-
-I'm going to wait on my own portfolio, until I get more ideas, projects, and experience going. I have a hard time filling it out because I don't have much experience yet.
+I'm not the biggest fan of web development, but building a beautiful website is definitely on my roadmap.
