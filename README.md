@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-My name is Justin Hoang, and this is my Github account!
+My name is Justin Hoang, and this is my Github account.
 
 ## Where is Everything?
 
